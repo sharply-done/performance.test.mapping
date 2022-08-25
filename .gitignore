@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/performance.test.mapping/DesignTimeBuild
+/.vs/performance.test.mapping/FileContentIndex
+/.vs/ProjectEvaluation
+*.json
+/.vs
+/performance.test.mapping/bin
+/performance.test.mapping/obj
